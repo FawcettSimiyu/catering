@@ -1,0 +1,14 @@
+h1, h2 {
+  text-align: center;
+  font-family: gothic;
+}
+h3 {
+  font-family: gothic;
+}
+h4 {
+  font-style: italic;
+  font-weight: bold;
+}
+.back{
+  background-image: url("https://images.yaoota.com/vCFFt_Eh4ikBWnT0imUfuPaffv4=/trim/yaootaweb-production-ke/media/crawledproductimages/ded44c6e469847a7709c5254af9e961fc24e7d48.jpg");
+}
